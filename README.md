@@ -1,2 +1,2 @@
 # Remastersys
-Remastersys for Ubuntu
+Remastersys for Ubuntu 18.04
